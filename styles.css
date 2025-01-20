@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-color: blanchedalmond;
+}
+
+.title {
+    text-align: center;
+    font-style: oblique;
+}
+
+.sub-title {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+
+a {
+    color: rgb(241, 226, 211);
+    text-decoration: none;
+}
+
+button {
+    background-color: rgb(167, 110, 110);
+}
+
+.home {
+    color: black;
+}
